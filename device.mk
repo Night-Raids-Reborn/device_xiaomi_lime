@@ -13,9 +13,11 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
-    ApertureCitrus \
+    ApertureLime \
+    ApertureLemon \
+    AperturePomelo \
     SettingsProviderResTarget \
     WifiResTarget
 
 # Inherit the proprietary files
-$(call inherit-product, vendor/xiaomi/citrus/citrus-vendor.mk)
+$(call inherit-product, vendor/xiaomi/lime/lime-vendor.mk)

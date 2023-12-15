@@ -18,8 +18,8 @@
 -->
 <resources>
     <!-- Default for Settings.Global.DEVICE_NAME $1=MANUFACTURER $2=MODEL-->
-    <string translatable="false" name="def_device_name">Xiaomi POCO M3</string>
+    <string translatable="false" name="def_device_name">Xiaomi Redmi 9T</string>
 
     <!-- Default for Settings.Global.DEVICE_NAME $1=MODEL-->
-    <string translatable="false" name="def_device_name_simple">POCO M3</string>
+    <string translatable="false" name="def_device_name_simple">Redmi 9T</string>
 </resources>

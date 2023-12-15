@@ -25,7 +25,7 @@ fi
 
 set -e
 
-export DEVICE=citrus
+export DEVICE=lime
 export DEVICE_COMMON=bengal
 export VENDOR=xiaomi
 

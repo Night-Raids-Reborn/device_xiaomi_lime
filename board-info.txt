@@ -1,1 +1,1 @@
-require board=citrus
+require board=lime
